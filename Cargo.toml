@@ -1,0 +1,9 @@
+[package]
+name = "untitled5"
+version = "0.1.0"
+edition = "2021"
+description = "JVM interpreter and class loader implementation according to https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html#jvms-4.4-140"
+
+
+[dependencies]
+byteorder = "1.4.3"
